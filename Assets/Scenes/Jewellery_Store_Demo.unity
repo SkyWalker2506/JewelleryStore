@@ -198,7 +198,7 @@ GameObject:
   m_Component:
   - component: {fileID: 40292989}
   m_Layer: 0
-  m_Name: Lamps
+  m_Name: q
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7461,7 +7461,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1020815479164131393, guid: 7347efbe84b354440aa9aad572281314, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.893
+      value: 0.794
       objectReference: {fileID: 0}
     - target: {fileID: 1020815479164131393, guid: 7347efbe84b354440aa9aad572281314, type: 3}
       propertyPath: m_LocalPosition.z
